@@ -14,8 +14,7 @@ Each problem is solved locally and pushed here to track progress and for future 
 
 ---
 
-## Progress
+## Progress (as of initial commit)
 
-- Total problems solved: 26+ (as of now)  
+- Total problems solved: 26+ 
 - Focus areas: Arrays, Strings, Linked Lists, Binary Search Trees, Hashing, Math  
-
