@@ -48,4 +48,4 @@ def solution(root):
 
     # start with infinite bounds at the root
 
-    return validate(root, float("-inf"), float("-inf"))
+    return validate(root, float("-inf"), float("inf"))
